@@ -1,0 +1,13 @@
+ul {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  text-align: center;
+}
+li {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
